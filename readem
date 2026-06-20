@@ -1,0 +1,20 @@
+# Spam SMS Detection
+
+## Project Overview
+This project classifies SMS messages as Spam or Legitimate using Machine Learning.
+
+## Algorithm Used
+- TF-IDF Vectorization
+- Multinomial Naive Bayes
+
+## Dataset
+SMS Spam Collection Dataset
+
+## Technologies
+- Python
+- Pandas
+- Scikit-Learn
+- Jupyter Notebook
+
+## Results
+Accuracy: (Your Accuracy Here)
